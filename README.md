@@ -14,8 +14,8 @@ Add your timetable
 Execute the program
 
 # CODE
-# REG NO: 
-# NAME:
+# REG NO: 212220040121
+# NAME: Pralayakaveri siva
 ```
 <!doctype html>
 <html>
